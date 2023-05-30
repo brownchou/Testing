@@ -1,6 +1,6 @@
 #!/bin/bash
 
-number=$((RANDOM % 20 + 1))  # 產生隨機數
+number=$((RANDOM % 21))  # 產生隨機數
 
 echo "歡迎參加猜數字遊戲！！"
 echo "猜1-20的整數。總共5次機會。"
